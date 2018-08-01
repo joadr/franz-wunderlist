@@ -1,0 +1,13 @@
+{
+  "id": "wunderlist",
+  "name": "Wunderlist",
+  "version": "0.0.1",
+  "description": "Wunderlist for Franz",
+  "main": "index.js",
+  "author": "Joaquin Diaz <joaquin.diaz@ies.cl>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.wunderlist.com/webapp",
+    "hasNotificationSound": true
+  }
+}
